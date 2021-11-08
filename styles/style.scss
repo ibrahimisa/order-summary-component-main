@@ -102,3 +102,9 @@ body{
     margin-top: 20px;
     font-weight: 900;
 }
+
+@media screen and (max-width:375px){
+    body {
+        padding: 0 30px;
+    }
+}
